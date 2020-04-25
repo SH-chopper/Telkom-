@@ -5,7 +5,7 @@
 <Body>
 <h1><font size= "70"><centre><u> Assignment 2 - The IT World </u></centre></font></h1>
 
-<br><br><br><br><br>
+<br><br><br>
 
 <h1>Team Profile</h1>
   <h2>Team Name</h2>
@@ -28,6 +28,325 @@
 
 <br><br><br>
 <h1>Industry Data</h1>
+    <h3>Gerald Dwi Cipta</h3>
+      <ol>
+        <li>What are the Job Titles for your group’s ideal jobs? How do each of these rank in terms of demand from employers?</li>
+          <ul>
+            <li>#5 in the ranking - System analyst</li>
+           </ul>
+        <br><br>
+        <li>From your group’s ideal jobs, you can identify a set of skills required for these jobs (we will refer to this as your group’s required skill set ). These can be divided into general skills (communication, problem solving, writing etc) and IT-specific skills (Javascript, SQL, etc).</li>
+          <ul>
+            <li>System analyst skills - 3 to 5 years of job experience in the field. Business Information Technology (BIT), Computer Information System (CIS) or a Computer System analysis degree would be required to pass the qualification. General skills needed such as Communication skills, Critical-Thinking skills, Team Work, and problem solving skills are really important in this field of job. SQL in Oracle or MySQL Query language may be useful in this field of job, business management, SAP, Project Management some basic Computer skills such as Microsoft Windows are also required.</li>
+          </ul>
+        <br><br>
+        <li>How do the IT-specific skills in your required skill set rank in terms of demand from employers.</li>
+          <ol>
+            <li>Rank #1 SQL</li>
+            <li>Rank #4 Microsoft Windows</li>
+            <li>Rank #5 Project Management</li>
+            <li>Rank #6 SAP</li>
+          </ol>
+        <br><br>
+        <li>How do the general skills in your required skill set rank in terms of demand from employers?</li>
+           <ol>
+            <li>Rank #1 Communication Skill</li>
+            <li>Rank #2 Problem Solving</li>
+            <li>Rank #5 TeamWork</li>
+            <li>Rank #17 Analytical</li>
+            <li>Rank#7 Planning</li>
+          </ol>
+        <br><br>
+        <li>What are the three highest ranked IT-specific skills which are not in your required skill set?</li>
+          <ol>
+            <li>Rank #7 Object-oriented design (OOD)</li>
+            <li>Rank #6 Software testing and debugging</li>
+            <li>Rank #2 Javascript</li>
+            <li>Rank #3 Java</li>
+            <li>Rank #6 C# </li>
+            <li>Rank #22  Python</li>
+          </ol>
+        <br><br>
+        <li>What are the three highest ranked general skills which are not in your required skill set?</li>
+          <ol>
+            <li></li>
+            <li></li>          
+            <li></li> 
+          </ol>
+        <br><br>
+        <li>What are the three highest ranked general skills which are not in your required skill set?</li>
+          <ol>
+            <li></li>
+            <li></li>          
+            <li></li> 
+          </ol>
+      </ol>
+    
+ <br><br><br>
+    
+    <h3>John Usaraga</h3>
+    <ol>
+        <li>What are the Job Titles for your group’s ideal jobs? How do each of these rank in terms of demand from employers?</li>
+          <ul>
+            <li></li>
+           </ul>
+        <br><br>
+        <li>From your group’s ideal jobs, you can identify a set of skills required for these jobs (we will refer to this as your group’s required skill set ). These can be divided into general skills (communication, problem solving, writing etc) and IT-specific skills (Javascript, SQL, etc).</li>
+          <ul>
+            <li></li>
+          </ul>
+        <br><br>
+        <li>How do the IT-specific skills in your required skill set rank in terms of demand from employers.</li>
+          <ol>
+            <li></li>
+            <li></li>
+            <li></li>
+            <li></li>
+          </ol>
+        <br><br>
+        <li>How do the general skills in your required skill set rank in terms of demand from employers?</li>
+           <ol>
+            <li></li>
+            <li></li>
+            <li></li>
+            <li></li>
+            <li></li>
+          </ol>
+        <br><br>
+        <li>What are the three highest ranked IT-specific skills which are not in your required skill set?</li>
+          <ol>
+            <li></li>
+            <li></li>
+            <li></li>
+          </ol>
+        <br><br>
+        <li>What are the three highest ranked general skills which are not in your required skill set?</li>
+          <ol>
+            <li></li>
+            <li></li>          
+            <li></li> 
+          </ol>
+        <br><br>
+        <li>What are the three highest ranked general skills which are not in your required skill set?</li>
+          <ol>
+            <li></li>
+            <li></li>          
+            <li></li> 
+          </ol>
+      </ol>
+      
+     <br><br><br>
+      
+    <h3>Nicholas Santosa</h3>
+    <ol>
+        <li>What are the Job Titles for your group’s ideal jobs? How do each of these rank in terms of demand from employers?</li>
+          <ul>
+            <li></li>
+           </ul>
+        <br><br>
+        <li>From your group’s ideal jobs, you can identify a set of skills required for these jobs (we will refer to this as your group’s required skill set ). These can be divided into general skills (communication, problem solving, writing etc) and IT-specific skills (Javascript, SQL, etc).</li>
+          <ul>
+            <li></li>
+          </ul>
+        <br><br>
+        <li>How do the IT-specific skills in your required skill set rank in terms of demand from employers.</li>
+          <ol>
+            <li></li>
+            <li></li>
+            <li></li>
+            <li></li>
+          </ol>
+        <br><br>
+        <li>How do the general skills in your required skill set rank in terms of demand from employers?</li>
+           <ol>
+            <li></li>
+            <li></li>
+            <li></li>
+            <li></li>
+            <li></li>
+          </ol>
+        <br><br>
+        <li>What are the three highest ranked IT-specific skills which are not in your required skill set?</li>
+          <ol>
+            <li></li>
+            <li></li>
+            <li></li>
+          </ol>
+        <br><br>
+        <li>What are the three highest ranked general skills which are not in your required skill set?</li>
+          <ol>
+            <li></li>
+            <li></li>          
+            <li></li> 
+          </ol>
+        <br><br>
+        <li>What are the three highest ranked general skills which are not in your required skill set?</li>
+          <ol>
+            <li></li>
+            <li></li>          
+            <li></li> 
+          </ol>
+      </ol>
+      
+     <br><br><br>
+    <h3>Patrick Cruz</h3>
+    <ol>
+        <li>What are the Job Titles for your group’s ideal jobs? How do each of these rank in terms of demand from employers?</li>
+          <ul>
+            <li></li>
+           </ul>
+        <br><br>
+        <li>From your group’s ideal jobs, you can identify a set of skills required for these jobs (we will refer to this as your group’s required skill set ). These can be divided into general skills (communication, problem solving, writing etc) and IT-specific skills (Javascript, SQL, etc).</li>
+          <ul>
+            <li></li>
+          </ul>
+        <br><br>
+        <li>How do the IT-specific skills in your required skill set rank in terms of demand from employers.</li>
+          <ol>
+            <li></li>
+            <li></li>
+            <li></li>
+            <li></li>
+          </ol>
+        <br><br>
+        <li>How do the general skills in your required skill set rank in terms of demand from employers?</li>
+           <ol>
+            <li></li>
+            <li></li>
+            <li></li>
+            <li></li>
+            <li></li>
+          </ol>
+        <br><br>
+        <li>What are the three highest ranked IT-specific skills which are not in your required skill set?</li>
+          <ol>
+            <li></li>
+            <li></li>
+            <li></li>
+          </ol>
+        <br><br>
+        <li>What are the three highest ranked general skills which are not in your required skill set?</li>
+          <ol>
+            <li></li>
+            <li></li>          
+            <li></li> 
+          </ol>
+        <br><br>
+        <li>What are the three highest ranked general skills which are not in your required skill set?</li>
+          <ol>
+            <li></li>
+            <li></li>          
+            <li></li> 
+          </ol>
+      </ol>
+      
+     <br><br><br>
+     
+    <h3>Kelvin Huynh</h3>
+         <ol>
+        <li>What are the Job Titles for your group’s ideal jobs? How do each of these rank in terms of demand from employers?</li>
+          <ul>
+            <li></li>
+           </ul>
+        <br><br>
+        <li>From your group’s ideal jobs, you can identify a set of skills required for these jobs (we will refer to this as your group’s required skill set ). These can be divided into general skills (communication, problem solving, writing etc) and IT-specific skills (Javascript, SQL, etc).</li>
+          <ul>
+            <li></li>
+          </ul>
+        <br><br>
+        <li>How do the IT-specific skills in your required skill set rank in terms of demand from employers.</li>
+          <ol>
+            <li></li>
+            <li></li>
+            <li></li>
+            <li></li>
+          </ol>
+        <br><br>
+        <li>How do the general skills in your required skill set rank in terms of demand from employers?</li>
+           <ol>
+            <li></li>
+            <li></li>
+            <li></li>
+            <li></li>
+            <li></li>
+          </ol>
+        <br><br>
+        <li>What are the three highest ranked IT-specific skills which are not in your required skill set?</li>
+          <ol>
+            <li></li>
+            <li></li>
+            <li></li>
+          </ol>
+        <br><br>
+        <li>What are the three highest ranked general skills which are not in your required skill set?</li>
+          <ol>
+            <li></li>
+            <li></li>          
+            <li></li> 
+          </ol>
+        <br><br>
+        <li>What are the three highest ranked general skills which are not in your required skill set?</li>
+          <ol>
+            <li></li>
+            <li></li>          
+            <li></li> 
+          </ol>
+      </ol>
+      
+     <br><br><br>
+    <h3>Tony Hou</h3>
+    <ol>
+        <li>What are the Job Titles for your group’s ideal jobs? How do each of these rank in terms of demand from employers?</li>
+          <ul>
+            <li></li>
+           </ul>
+        <br><br>
+        <li>From your group’s ideal jobs, you can identify a set of skills required for these jobs (we will refer to this as your group’s required skill set ). These can be divided into general skills (communication, problem solving, writing etc) and IT-specific skills (Javascript, SQL, etc).</li>
+          <ul>
+            <li></li>
+          </ul>
+        <br><br>
+        <li>How do the IT-specific skills in your required skill set rank in terms of demand from employers.</li>
+          <ol>
+            <li></li>
+            <li></li>
+            <li></li>
+            <li></li>
+          </ol>
+        <br><br>
+        <li>How do the general skills in your required skill set rank in terms of demand from employers?</li>
+           <ol>
+            <li></li>
+            <li></li>
+            <li></li>
+            <li></li>
+            <li></li>
+          </ol>
+        <br><br>
+        <li>What are the three highest ranked IT-specific skills which are not in your required skill set?</li>
+          <ol>
+            <li></li>
+            <li></li>
+            <li></li>
+          </ol>
+        <br><br>
+        <li>What are the three highest ranked general skills which are not in your required skill set?</li>
+          <ol>
+            <li></li>
+            <li></li>          
+            <li></li> 
+          </ol>
+        <br><br>
+        <li>What are the three highest ranked general skills which are not in your required skill set?</li>
+          <ol>
+            <li></li>
+            <li></li>          
+            <li></li> 
+          </ol>
+      </ol>
+      
+     <br><br><br>
+
 
 
 <br><br><br>
