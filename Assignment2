@@ -1,372 +1,460 @@
 <HTML>
-<Head>
-<Title>Telkom+</Title>
-</Head>
-<Body>
-<h1><font size= "70"><centre><u> Assignment 2 - The IT World </u></centre></font></h1>
-
-<br><br><br>
-
-<h1>Team Profile</h1>
-  <h2>Team Name</h2>
-    Telkom+
-
-<br><br>
-
-  <h2>Personal Information, Team Profile & Ideal Jobs</h2>
-    <h3>Gerald Dwi Cipta</h3>
-    <h3>John Usaraga</h3>
-    <h3>Nicholas Santosa</h3>
-    <h3>Patrick Cruz</h3>
-    <h3>Kelvin Huynh</h3>
-    <h3>Tony Hou</h3>
-
-<br><br><br>
-
-<h1>Tools</h1>
-
-
-<br><br><br>
-<h1>Industry Data</h1>
-    <h3>Gerald Dwi Cipta</h3>
+  <Head>
+  <Title>Telkom+</Title>
+  <link rel="stylesheet" href="ass2.css">
+  </Head>
+  <Body>
+  <h1><font size= "70"> Assignment 2 - The IT World</font></h1>
+  
+  <br><br>
+  
+  <h1>Team Profile</h1>
+    <h2>Team Name</h2>
+    <img src= Telkomplus.jpg>
+  <BR>
+      <p>Our home automation project is called "Telkom+". It is a deliberate spelling error sourcing from the short-form of Telecommunication, Telcom. This deliberation of this spelling error is due to the characteristic that is common to all people is that they pay more attention to the details when there is something not right, and thus, this is our own way so that people are conscious of our brand</p>
+  
+  <br><br>
+  
+    <h2>Personal Information, Team Profile & Ideal Jobs</h2>
+      <h3>Gerald Dwi Cipta</h3>
+          <H4>Personal Information</H4>
+          <p>Hi! My name is Gerald Dwi Cipta. My student number is s3666265 and my email address is <a href="mailto:s3666265@student.rmit.edu.au">s3666265@student.rmit.edu.au</a>.</p>
+          <p>Im an international student from Indonesia and currently studying in RMIT's finest Australian campus graduating in winter 2020. As for now, I'm only able to speak Indonesian, English, Chinese. I'm looking forward to learn French because I think that it is an interesting language to communicate with. I consider Racing is my main sport and my hobby. A really interesting fact about me is when i eat a pizza slice, i often leave the crust because I think that it just taste too doughy and i dislike it. My interest in IT includes designing the database architecture. When I was 15 years old, before I took this BP308 Business Information Systems, my elder brother showed me a couple of his projects, which included him putting his customer base for his phone application in a database using MySQL. In just one line of SQL, he could filter out his under 18 users, over 50 users and can see the demographic of his customer base when he needs to review his target market for the application. Me at that point of time not knowing anything about databases, I was amazed and keen to learn more about this database management systems, asked what course is available to learn more about this database and my study agent recommended me this BP308 course.</p>
+  <br><br>
+      <H4>Team Profile</H4>
+          <img src = Myers-Briggs.png style="width:600px;height:350px;">&nbsp;&nbsp;<img src = Learning.png style="width:600px;height:200px;">&nbsp;&nbsp;<img src = Creativvity.png style="width:500px;height:400px;"><br><br>
+          <p>The MBTI test shows that I'm a Debater (ENTP-T), after a further reading of what a debater personality means, it shows that I'm an excellent brainstormer where a debater can analyse problems in every point of view and tackle the problem in every aspect. Debaters also are quick thinkers, knowledgeable, energetic and charismatic. On the other side, from the learning style test, it shows that I'm a "Tactile Learner" where i learn by touching, which means that I need to have a grasp of the item or object that I'm learning by doing, which means that I'm a type of autodidact, learning to do thing by actively doing it. Last but not least, the creativity test shows that my creativity percentage is 63.16% (average), with that I'm short of the persistence aspect which means that I'm not that type to force myself to improve something that I consider to be "enough" or "good". Compiling everything, all of this test information might be useful to a group by helping a team to brainstorm all problem-solving solutions for all of the current situation. I can also help the team to learn when they do not know or have no idea on how to start the task as I learn while I do while bringing the team with me and go through the task together as a team.</p> 
+  <br><br>
+      <h4>Ideal Job</h4>
+          <p></p>
+          <br><br><br>
+  
+  
+      <h3>John Usaraga</h3>
+          <H4>Personal Information</H4>
+              <p>Hi there, My name is John Mikael Usaraga, but most people call me Mikey. My studentID is S3842470. I was born in Melbourne, Australia, however, my parents are both Filipino. At home, my parents communicate to me in Tagalog, but I can only understand what they are saying because I have trouble speaking it as English is my native language. I am currently studying the Bachelor of Information Technology at RMIT. My hobbies include playing video games, watching anime and playing sports such as badminton and basketball. I have been playing badminton for 5-6 years now, but I don't play it as frequently as I used to.</p>
+              <p>Growing up I had always played video games on console and pc. When playing these games there would sometimes be a new patch/update to a game before it runs. What intrigued me was how these patches were able to improve the game whether it be to fix a bug or to add more content to the game. From this, I started to develop an interest in IT as I wanted to find out how these updates worked. Having researched about it I came to an understanding that IT is used in a lot more interesting ways and am now fascinated by the actual coding/programming behind certain programs/software.  </p>
+  <br><br>
+          <H4>Team Profile</H4>
+              <p><b>Myers-Briggs Test</b> -Protagonist ENFJ-A <br> Mind: 63% Extraverted, 37% Introverted Energy: 60% Intuitive, 40% Observant Nature: 72% Feeling, 28% ThinkingTactics: 71% Judging, 29% Prospecting Identity: 79% Assertive, 21% Turbulent
+              <br><br>
+                  <b>Learning Style Test</b> -Auditory 30%, Visual -50%, Tactile -20% 
+              <br><br>    
+                  <b>Big Five Personality Test</b>-Openness 85%, Conscientiousness 73%, Extraversion 69%, Agreeableness 73%, Neuroticism 21%<br><br>
+                  I feel like these results will influence my behaviour spositively. The traits I have which I believe will be the most influential when working in a team are my intuitiveness, judging personality, extraversion, and agreeableness. When problems are present during a group project, my intuitiveness would allow meto come up with ideas to help improve the situation/issue. This would be supported by my extraversion and agreeableness as I would be able to voice my ideas comfortably without creating any unnecessary arguments. To be more productive when working in the team my judging personality would allow me and others to stay on track, maximising our time working on the project. If things go wrong during the project this personality would also work well with my intuitiveness as I could also come up with other plans if a problem does arise.My protagonist personality states that I take genuine pleasure when "getting to know other people, and have no trouble with people of all types." This would suggest that I would have no problem when forming a team with others as I am comfortable interacting with them. Some of the traits of someone who has a protagonist personality are being optimistic, kind and creative. I believe that these traits would also help me ease into a team of people with whom I have just met.</p>
+  <br><br>
+          <h4>Ideal Job</h4>
+              <p></p>
+  <br><br><br>
+      
+      
+      <h3>Nicholas Santosa</h3>
+          <H4>Personal Information</H4>
+              <p>Hello, my name is Nicholas Christopher Santosa. My RMIT student id is s3844591 and my RMIT student email is <a
+                href='mailto:s3844591@student.rmit.edu.au'>s3844591@student.rmit.edu.au</a>.
+            I was born in New Zealand, Auckland on March 23rd, 2002, Saturday. From 2007 onwards I have been living in
+            Melbourne and grew up in an Indonesian household. My first language is English and I'm somewhat fluent in
+            Bahasa (Indonesian). I'm currently undertaking a Bachelor of Information Technology at RMIT and in my first
+            year. I have finished school from Prep to Year 12. I went to Stella Maris in Point Cook for my Primary
+            school and moved to Emmanuel College Notre Dame Campus from year 7 to 12. I have a pet dog. She's a Labrador, her name is Nugget and has been in my family for two years. My main hobby
+            is cars, more about JDM and modifying cars, but I also enjoy watching F1 and the overall understanding of
+            how cars work. I also enjoy music and play the guitar, piano and have a passion for singing.</p>
+  <br><br>
+          <H4>Team Profile</H4>
+              <p>The Myers Briggs test results show that I’m an Advocate (INFJ-T). Upon further inspection an Advocate has an introverted mind, intuitive energy, feeling nature, judging tactics and turbulent identity. An advocate is sensitive to how others feel, creative and focused on the future. I believe I have all of those traits except for the Intuitive nature, where I believe I am more observant and can pick things up. According to the Learning test I took, I’m a visual learner. As a visual learner I need graphs, pictures and to read reports to understand the content better. I need to be able to write down information to contain it. This test accurately represents how I learn. I usually study using pictures and notes that use colour or diagrams to study. My creativity test result is 55.01, this means I can manage with work given to me in quantities and manage it very well, showing how organised I am. My work can be anything and I will be able to accept the work, even if it's contradictory. My perspective also shows that I am able to shift my perspective depending on the situation, making me flexible. I believe this test is also accurate, I feel like I’m very organised being on top of everything I do and I’m able to complete multiple different tasks. The test also says that I can shift my perspective depending on the situation and I think that's true, there have been many accounts where I can adapt to the situation. I probably feel like I need a bit of apparent connection before I can understand it and that I have more persistence then what the test says I do. This information can be helpful to the group, letting them know I can make decisions, my organisation skills, how my learning style is visual and I’m flexible with the workload and my position in the group.</p>
+  <br><br>
+          <h4>Ideal Job</h4>
+              <p></p>
+  <br><br><br>
+  
+  
+      <h3>Patrick Cruz</h3>
+              <H4>Personal Information</H4>
+              <p>Hello there, my name is Patrick Cruz and my studentID is s3657537. I'm born in the Philippines but moved to Australia when I was young, so I don't recall much of Philippines. Current education is undertaking a Bachelor of Business majoring in logistics and supply chain management. Previous education is the completion of year 12 and a Diploma of Logistics studied at RMIT. Online gaming is a heavy interest to me and being able to interact with people all over the world in different types of games are one of my main hobbies. My interest in IT is mainly the potential optimization of everyday tasks and chores that can be adapted to utilize a certain technology or program that will streamline the process.
+            <br><br>
+                My interest in IT came at a young age from playing on the computer for long enough that I wanted to know how they worked. With technology become more and more incorporated within our every day lives, future developments in thecareer field I am pursuing may rely on such technologies. To be able to stay relevant in the required skill sets I believe that it is important to have a good understanding in the way the technology works and not just use it. I chose to come to RMIT because of the location of the main city campus and otherreviews from online friends that took the same course I am currently undergoing. Within my bachelor im currently in the 3rd and final year before completion, within this course introduction to IT I am hoping to understand and be able to further strengthen my knowledge of different applications that may assist the logistical side of business in the future. It is my assumption that the future of Logistics will incorporate far more usage of technology to assist and being able to understand how it all works can be a beneficial skill.</p>
+  <br><br>
+          <H4>Team Profile</H4>
+              <p></p>
+  <br><br>
+          <h4>Ideal Job</h4>
+              <p>Inventory and Systems Manager</p>
+              <p>I find this job interesting due to the managing and overseeing of events that are partaking within a distribution centre. The teamwork required is relatively high due to the amount of people you interact with.The job has requirements of proper safety leadership in all actions taken, an expansive knowledge of transport and Logistics terminology and experience. Expert skills in Microsoft excel and programs such as SAP and eWM and the ability to communicate effectively and confidently in written and oral communication skills.The experience I have is a full qualification of a Diploma of logistics and previous experience with working in groups to achieve the same goal, a moderate amount ofexcel knowledge but always up to improve my skills.Obtaining the excel skills can be achievable by time and research as all informationrequired to develop this skill are able to be gained through online methods and YouTube tutorials, by working in teams more I will be able to further develop my communication skills.</p>
+  <br><br><br>
+  
+  
+      <h3>Kelvin Huynh</h3>
+          <H4>Personal Information</H4>
+              <p>Hi everyone! My name is Kelvin Huynh, my student number is s3854638 and my work e-mail is <a href="mailto:s3854638@student.rmit.edu.au">s3854638@student.rmit.edu.au</a>. My natinality is a mix of Chinese and Vietnamese. I speak a couple of languages that includes English, Chinese and Teochew. An interesting fact about me is that I have worked in Target for about 3 years now as a casual. </p>
+                <p>I have always been fascinated with technology. How electronics functions, how programs are built and how technology is involved every day. My interest in IT began when I started playing video games. I noticed that the games were running slower, which made me curious to find a solution to work out why these programs were slowing down. I chose to come to RMIT as I have heard that this university has a known reputation for great success in this course. During my studies I hope to learn more about programming and how technology functions.</p>
+  <br><br>
+          <H4>Team Profile</H4>
+              <p></p>
+  <br><br>
+          <h4>Ideal Job</h4>
+              <p>This advertisement offers the position of a cyber security analyst to work on making sure that the cyber security requirements are up to date with the MFB organisation. It offers the chance to work with other IT teams within the MFB organisation to ensure that cyber security is embedded at all locations. This job is appealing to me, as it offers the chance to work with a organisation that already strives to help and save lives. This position does require a minimum of 5 years of experience in working in other cyber security roles, the ability to conversate with others that un-aware of IT, prior knowledge of cloud environments and have experience with security measures including; encryptions, password access management systems and proxies. This position also requires knowledge in SIEM tools.</p>
+  <br><br><br>
+  
+  
+      <h3>Tony Hou</h3>
+        <H4>Personal Information</H4>
+          <p>Hello everyone, my name is Tony Zhi-Lin Hou, my studentID is s3839825 and my student e-mail is <a href="mailto:s3839825@student.rmit.edu.au">s3839825@student.rmit.edu.au</a>. My family are from Taiwan although I was born and raised in Australia. graduated from Doncaster Secondary College last year, Doncaster Primary school 2013 and was a exchange student in china for a short period of time in 2016 and 2017I can speak English, understand and speak basic Chinese and somewhat understand Hokkien. A fun fact about myself,  am really into gaming (Nintendo), anime and watching MMA</p>
+      <br><br>
+        <H4>Team Profile</H4>
+          <p></p>
+      <br><br>
+        <h4>Ideal Job</h4>
+          <p>My ideal job is working as a web developer for any company, a web developer which oversees everything related to a website that is to the company’s vision. So that can be building the website e.g. coding, layout, or design etc. therefore a web developer is expected to have a balance between programming and design. This position is appealing to me as it is relating to IT and there is some sort of creativity, So I can have a new experience every time as I need to design the website to someone’s wants. I would need to have experience in VMS such as WordPress, Magento, Drupal and Joomla, therefore have successfully built websites. This position also requires already have experience in working with agencies and being able to code in the most efficient way possible. This position also requires the web developer to know networking, user interface, data base and knowledge a full stack programmer would know.</p>
+          <p>When comparing and contrasting each ideal jobs for each person in the group. It seems like although the common element behind most of ideal jobs are IT related, each job is related to different part of IT/combined with other areas for cyber security Analyst is more focused on security. I think that between our groups job it is somewhat loosely linked for example a system analyst might need to have the skills of a cyber security analyst to improve a system.  So some jobs may share similar aspects of the job. Overall I think that our career plans across the group are quite different as each job goes over the different aspect of IT</p>
+  <br><br><br>
+  
+  <h1>Tools</h1>
+  
+  
+  <br><br><br>
+  <h1>Industry Data</h1>
+      <h3>Gerald Dwi Cipta</h3>
+        <ol>
+          <li>What are the Job Titles for your group’s ideal jobs? How do each of these rank in terms of demand from employers?</li>
+            <ul>
+              <li>#5 in the ranking - System analyst</li>
+             </ul>
+          <br><br>
+          <li>From your group’s ideal jobs, you can identify a set of skills required for these jobs (we will refer to this as your group’s required skill set ). These can be divided into general skills (communication, problem solving, writing etc) and IT-specific skills (Javascript, SQL, etc).</li>
+            <ul>
+              <li>System analyst skills - 3 to 5 years of job experience in the field. Business Information Technology (BIT), Computer Information System (CIS) or a Computer System analysis degree would be required to pass the qualification. General skills needed such as Communication skills, Critical-Thinking skills, Team Work, and problem solving skills are really important in this field of job. SQL in Oracle or MySQL Query language may be useful in this field of job, business management, SAP, Project Management some basic Computer skills such as Microsoft Windows are also required.</li>
+            </ul>
+          <br><br>
+          <li>How do the IT-specific skills in your required skill set rank in terms of demand from employers.</li>
+            <ol>
+              <li>Rank #1 SQL</li>
+              <li>Rank #4 Microsoft Windows</li>
+              <li>Rank #5 Project Management</li>
+              <li>Rank #6 SAP</li>
+            </ol>
+          <br><br>
+          <li>How do the general skills in your required skill set rank in terms of demand from employers?</li>
+             <ol>
+              <li>Rank #1 Communication Skill</li>
+              <li>Rank #2 Problem Solving</li>
+              <li>Rank #5 TeamWork</li>
+              <li>Rank #17 Analytical</li>
+              <li>Rank#7 Planning</li>
+            </ol>
+          <br><br>
+          <li>What are the three highest ranked IT-specific skills which are not in your required skill set?</li>
+            <ol>
+              <li>Rank #7 Object-oriented design (OOD)</li>
+              <li>Rank #6 Software testing and debugging</li>
+              <li>Rank #2 Javascript</li>
+              <li>Rank #3 Java</li>
+              <li>Rank #6 C# </li>
+              <li>Rank #22  Python</li>
+            </ol>
+          <br><br>
+          <li>What are the three highest ranked general skills which are not in your required skill set?</li>
+            <ol>
+              <li></li>
+              <li></li>          
+              <li></li> 
+            </ol>
+          <br><br>
+            <li>Having looked at your updated Burning Glass data, has your opinion of your ideal job changed? Why or why not?</li>
+            <ol>
+              <li>No. As this has been my dream job since i was young and I’m a more goal driven compared to a ranking driven person.</li>
+            </ol>
+          <br><br>
+        </ol>
+      
+   <br><br><br>
+      
+      <h3>John Usaraga</h3>
       <ol>
-        <li>What are the Job Titles for your group’s ideal jobs? How do each of these rank in terms of demand from employers?</li>
+          <li>What are the Job Titles for your group’s ideal jobs? How do each of these rank in terms of demand from employers?</li>
+            <ul>
+              <li>Senior Software Engineer - Highest in demand job
+                </li>
+             </ul>
+          <br><br>
+          <li>From your group’s ideal jobs, you can identify a set of skills required for these jobs (we will refer to this as your group’s required skill set ). These can be divided into general skills (communication, problem solving, writing etc) and IT-specific skills (Javascript, SQL, etc).</li>
+            <ul>
+              <li>Software Engineer Skills - 3-5 years of experienece. Bacgelors degree in computer science, or a related field. Master a variety of programming languages, such as C++, C#, JavaScript, and Python and practice building software. General skills include: software development, Object-oriented design (OOD), Software testing and debugging, problem solving and logical thinking, written and verbal communication, teamwork.</li>
+            </ul>
+          <br><br>
+          <li>How do the IT-specific skills in your required skill set rank in terms of demand from employers.</li>
+            <ol>
+              <li>Rank #2 - Java</li>
+              <li>Rank #4 - Python</li>
+              <li>Rank #9 - C#/Net.</li>
+            </ol>
+          <br><br>
+          <li>How do the general skills in your required skill set rank in terms of demand from employers?</li>
+             <ol>
+              <li>Rank #2 - Problem solving and logical thinking</li>
+              <li>Rank #6 - Software testing and debugging</li>
+              <li>Rank #7 - Object-oriented design (OOD)</li>
+              <li>Rank #7 - Teamwork</li>
+              <li>Rank #10 - Written and verbal communication</li>
+              </ol>
+          <br><br>
+          <li>What are the three highest ranked IT-specific skills which are not in your required skill set?</li>
+            <ol>
+              <li>SQL</li>
+              <li>Linux</li>
+              <li>SDLC</li>
+            </ol>
+          <br><br>
+          <li>What are the three highest ranked general skills which are not in your required skill set?</li>
+            <ol>
+              <li>Business Analysis</li>
+              <li>Business Process</li>          
+              <li>Stakeholder management</li> 
+            </ol>
+          <br><br>
+          <li>Having looked at your updated Burning Glass data, has your opinion of your ideal job changed? Why or why not?</li>
+            <ul>
+              <li>No, as I consider the job to be ideal for me mainly because of the work you do as a software engineer</li> 
+            </ul>
+        </ol>
+        
+       <br><br><br>
+        
+      <h3>Nicholas Santosa</h3>
+      <ol>
+          <li>What are the Job Titles for your group’s ideal jobs? How do each of these rank in terms of demand from employers?</li>
+            <ul>
+              <li>Software Engineer - Highest in demand job, ranked 11th in demand in 2018</li>
+             </ul>
+          <br><br>
+          <li>From your group’s ideal jobs, you can identify a set of skills required for these jobs (we will refer to this as your group’s required skill set ). These can be divided into general skills (communication, problem solving, writing etc) and IT-specific skills (Javascript, SQL, etc).</li>
+            <ul>
+              <li>Software Engineer Skills - 3-5 years of IT industry experience. Computer Science degree or related qualification. Proficient in at least Java, Python, C#, Mean and Ruby computer languages. Software development skills include; ability to analyse users’ needs, design, test, and develop software to meet those needs. Object-oriented design (OOD) consists of four key principles; Abstraction, Encapsulation, Inheritance and Polymorphism. Software testing and debugging capabilities. Problem solving and logical thinking. Written and verbal communication. Teamwork. </li>
+            </ul>
+          <br><br>
+          <li>How do the IT-specific skills in your required skill set rank in terms of demand from employers.</li>
+            <ol>
+              <li>Rank #2 Java</li>
+              <li>Rank #3 Javascript</li>
+              <li>Rank #4 Python</li>
+              <li>Rank #9 C#</li>
+              <li>Mean and Ruby weren’t in the top software and programming skills required</li>
+              </ol>
+              <p><b>2018 Skills</b></p>
+              <ol>
+              <li>Rank #2 Java</li>
+              <li>Rank #3 Javascript</li>
+              <li>Rank #12 C#</li>
+              <li>Rank #22 Python</li>
+              <li>Mean and Ruby weren’t in the top software and programming skills required</li>
+            </ol>
+          <br><br>
+          <li>How do the general skills in your required skill set rank in terms of demand from employers?</li>
+             <ol>
+              <li>Rank #1 Communication skills</li>
+              <li>Rank #2 Problem solving</li>
+              <li>Rank #10 Verbal communication</li>
+            </ol>
+            <p><b>2018 Skills</b></p>
+            <ol>
+              <li>Rank #1 Communication skills</li>
+              <li>Rank #2 Problem solving</li>
+              <li>Rank #5 Teamwork/Collaboration</li>
+              <li>Rank #6 Troubleshooting</li>
+              <li>Rank #17 Analytical Skills</li>
+            </ol>
+          <br><br>
+          <li>What are the three highest ranked IT-specific skills which are not in your required skill set?</li>
+            <ol>
+              <li>Rank #1 SQL</li>
+              <li>Rank #4 Microsoft Windows</li>
+              <li>Rank #7 Business Management</li>
+            </ol>
+          <br><br>
+          <li>What are the three highest ranked general skills which are not in your required skill set?</li>
+            <ol>
+              <li>Rank #3 Organisational Skills</li>
+              <li>Rank #4 Writing</li>          
+              <li>Rank #15 Presentational Skills</li>
+            </ol>
+          <br><br>
+          <li>Having looked at your updated Burning Glass data, has your opinion of your ideal job changed? Why or why not?</li>
           <ul>
-            <li>#5 in the ranking - System analyst</li>
-           </ul>
-        <br><br>
-        <li>From your group’s ideal jobs, you can identify a set of skills required for these jobs (we will refer to this as your group’s required skill set ). These can be divided into general skills (communication, problem solving, writing etc) and IT-specific skills (Javascript, SQL, etc).</li>
-          <ul>
-            <li>System analyst skills - 3 to 5 years of job experience in the field. Business Information Technology (BIT), Computer Information System (CIS) or a Computer System analysis degree would be required to pass the qualification. General skills needed such as Communication skills, Critical-Thinking skills, Team Work, and problem solving skills are really important in this field of job. SQL in Oracle or MySQL Query language may be useful in this field of job, business management, SAP, Project Management some basic Computer skills such as Microsoft Windows are also required.</li>
+            <li>No, being a Software Engineer is my ideal job, it gives great pay and interests me. Software Engineers are also the highest in demand IT job and also give the 3rd highest salary of any IT job.</li> 
           </ul>
-        <br><br>
-        <li>How do the IT-specific skills in your required skill set rank in terms of demand from employers.</li>
-          <ol>
-            <li>Rank #1 SQL</li>
-            <li>Rank #4 Microsoft Windows</li>
-            <li>Rank #5 Project Management</li>
-            <li>Rank #6 SAP</li>
-          </ol>
-        <br><br>
-        <li>How do the general skills in your required skill set rank in terms of demand from employers?</li>
+       <br><br><br>
+      <h3>Patrick Cruz</h3>
+      <ol>
+          <li>What are the Job Titles for your group’s ideal jobs? How do each of these rank in terms of demand from employers?</li>
+            <ul>
+              <li>Inventory and Systems Manager</li>
+             </ul>
+          <br><br>
+          <li>From your group’s ideal jobs, you can identify a set of skills required for these jobs (we will refer to this as your group’s required skill set ). These can be divided into general skills (communication, problem solving, writing etc) and IT-specific skills (Javascript, SQL, etc).</li>
+            <ul>
+              <li>Inventory and Systems manager CPIM or Proven track record of process improvements, 5 - 7 years in a role of similar responsibility, Suitable supervisory experience & ability to lead and steer a team,, APICS Certification Preferred, Demonstrated time management and organizational skills, Proven track record in Supply Chain management, Proven experience in leading and developing a team, Exceptional communication and presentation skills, Deep commercial understanding, Go-getter attitude with leadership capabilities, Bachelor's Degree or relevant tertiary qualification (business, logistics, supply chain preferred)</li>
+            </ul>
+          <br><br>
+          <li>How do the IT-specific skills in your required skill set rank in terms of demand from employers.</li>
+            <ol>
+              <li></li>
+              <li></li>
+              <li></li>
+              <li></li>
+            </ol>
+          <br><br>
+          <li>How do the general skills in your required skill set rank in terms of demand from employers?</li>
+             <ol>
+              <li>Rank #1 - Communication skills</li>
+              <li>Rank #2 - Problem solving </li>
+              <li>Rank #3 - Planning</li>
+              <li>Rank #4 - Writing</li>
+              <li>Rank #5 - Research</li>
+              <li>Rank #8 - Building effective relationships</li>
+              <li>Rank #10 - Verbal/Oral communication</li>
+            </ol>
+          <br><br>
+          <li>What are the three highest ranked IT-specific skills which are not in your required skill set?</li>
+            <ol>
+              <li>Rank #1 - SQL</li>
+              <li>Rank #2 - Java</li>
+              <li>Rank #3 - Javascript</li>
+            </ol>
+          <br><br>
+          <li>What are the three highest ranked general skills which are not in your required skill set?</li>
+            <ol>
+              <li>Troubleshooting</li>
+              <li>Detail orientated</li>          
+              <li>Creativity</li> 
+            </ol>
+          <br><br>
+          <li>Having looked at your updated Burning Glass data, has your opinion of your ideal job changed? Why or why not?</li>
+            <ol>
+              <li>No, the relevant skills are not needed within the field of logistics that I am pursuing and the general skills still transfer over.</li>
+            </ol>
+        </ol>
+        
+       <br><br><br>
+       
+      <h3>Kelvin Huynh</h3>
            <ol>
-            <li>Rank #1 Communication Skill</li>
-            <li>Rank #2 Problem Solving</li>
-            <li>Rank #5 TeamWork</li>
-            <li>Rank #17 Analytical</li>
-            <li>Rank#7 Planning</li>
-          </ol>
-        <br><br>
-        <li>What are the three highest ranked IT-specific skills which are not in your required skill set?</li>
-          <ol>
-            <li>Rank #7 Object-oriented design (OOD)</li>
-            <li>Rank #6 Software testing and debugging</li>
-            <li>Rank #2 Javascript</li>
-            <li>Rank #3 Java</li>
-            <li>Rank #6 C# </li>
-            <li>Rank #22  Python</li>
-          </ol>
-        <br><br>
-        <li>What are the three highest ranked general skills which are not in your required skill set?</li>
-          <ol>
-            <li></li>
-            <li></li>          
-            <li></li> 
-          </ol>
-        <br><br>
-        <li>What are the three highest ranked general skills which are not in your required skill set?</li>
-          <ol>
-            <li></li>
-            <li></li>          
-            <li></li> 
-          </ol>
-      </ol>
-    
- <br><br><br>
-    
-    <h3>John Usaraga</h3>
-    <ol>
-        <li>What are the Job Titles for your group’s ideal jobs? How do each of these rank in terms of demand from employers?</li>
-          <ul>
-            <li></li>
-           </ul>
-        <br><br>
-        <li>From your group’s ideal jobs, you can identify a set of skills required for these jobs (we will refer to this as your group’s required skill set ). These can be divided into general skills (communication, problem solving, writing etc) and IT-specific skills (Javascript, SQL, etc).</li>
-          <ul>
-            <li></li>
-          </ul>
-        <br><br>
-        <li>How do the IT-specific skills in your required skill set rank in terms of demand from employers.</li>
-          <ol>
-            <li></li>
-            <li></li>
-            <li></li>
-            <li></li>
-          </ol>
-        <br><br>
-        <li>How do the general skills in your required skill set rank in terms of demand from employers?</li>
-           <ol>
-            <li></li>
-            <li></li>
-            <li></li>
-            <li></li>
-            <li></li>
-          </ol>
-        <br><br>
-        <li>What are the three highest ranked IT-specific skills which are not in your required skill set?</li>
-          <ol>
-            <li></li>
-            <li></li>
-            <li></li>
-          </ol>
-        <br><br>
-        <li>What are the three highest ranked general skills which are not in your required skill set?</li>
-          <ol>
-            <li></li>
-            <li></li>          
-            <li></li> 
-          </ol>
-        <br><br>
-        <li>What are the three highest ranked general skills which are not in your required skill set?</li>
-          <ol>
-            <li></li>
-            <li></li>          
-            <li></li> 
-          </ol>
-      </ol>
-      
-     <br><br><br>
-      
-    <h3>Nicholas Santosa</h3>
-    <ol>
-        <li>What are the Job Titles for your group’s ideal jobs? How do each of these rank in terms of demand from employers?</li>
-          <ul>
-            <li></li>
-           </ul>
-        <br><br>
-        <li>From your group’s ideal jobs, you can identify a set of skills required for these jobs (we will refer to this as your group’s required skill set ). These can be divided into general skills (communication, problem solving, writing etc) and IT-specific skills (Javascript, SQL, etc).</li>
-          <ul>
-            <li></li>
-          </ul>
-        <br><br>
-        <li>How do the IT-specific skills in your required skill set rank in terms of demand from employers.</li>
-          <ol>
-            <li></li>
-            <li></li>
-            <li></li>
-            <li></li>
-          </ol>
-        <br><br>
-        <li>How do the general skills in your required skill set rank in terms of demand from employers?</li>
-           <ol>
-            <li></li>
-            <li></li>
-            <li></li>
-            <li></li>
-            <li></li>
-          </ol>
-        <br><br>
-        <li>What are the three highest ranked IT-specific skills which are not in your required skill set?</li>
-          <ol>
-            <li></li>
-            <li></li>
-            <li></li>
-          </ol>
-        <br><br>
-        <li>What are the three highest ranked general skills which are not in your required skill set?</li>
-          <ol>
-            <li></li>
-            <li></li>          
-            <li></li> 
-          </ol>
-        <br><br>
-        <li>What are the three highest ranked general skills which are not in your required skill set?</li>
-          <ol>
-            <li></li>
-            <li></li>          
-            <li></li> 
-          </ol>
-      </ol>
-      
-     <br><br><br>
-    <h3>Patrick Cruz</h3>
-    <ol>
-        <li>What are the Job Titles for your group’s ideal jobs? How do each of these rank in terms of demand from employers?</li>
-          <ul>
-            <li></li>
-           </ul>
-        <br><br>
-        <li>From your group’s ideal jobs, you can identify a set of skills required for these jobs (we will refer to this as your group’s required skill set ). These can be divided into general skills (communication, problem solving, writing etc) and IT-specific skills (Javascript, SQL, etc).</li>
-          <ul>
-            <li></li>
-          </ul>
-        <br><br>
-        <li>How do the IT-specific skills in your required skill set rank in terms of demand from employers.</li>
-          <ol>
-            <li></li>
-            <li></li>
-            <li></li>
-            <li></li>
-          </ol>
-        <br><br>
-        <li>How do the general skills in your required skill set rank in terms of demand from employers?</li>
-           <ol>
-            <li></li>
-            <li></li>
-            <li></li>
-            <li></li>
-            <li></li>
-          </ol>
-        <br><br>
-        <li>What are the three highest ranked IT-specific skills which are not in your required skill set?</li>
-          <ol>
-            <li></li>
-            <li></li>
-            <li></li>
-          </ol>
-        <br><br>
-        <li>What are the three highest ranked general skills which are not in your required skill set?</li>
-          <ol>
-            <li></li>
-            <li></li>          
-            <li></li> 
-          </ol>
-        <br><br>
-        <li>What are the three highest ranked general skills which are not in your required skill set?</li>
-          <ol>
-            <li></li>
-            <li></li>          
-            <li></li> 
-          </ol>
-      </ol>
-      
-     <br><br><br>
-     
-    <h3>Kelvin Huynh</h3>
-         <ol>
-        <li>What are the Job Titles for your group’s ideal jobs? How do each of these rank in terms of demand from employers?</li>
-          <ul>
-            <li></li>
-           </ul>
-        <br><br>
-        <li>From your group’s ideal jobs, you can identify a set of skills required for these jobs (we will refer to this as your group’s required skill set ). These can be divided into general skills (communication, problem solving, writing etc) and IT-specific skills (Javascript, SQL, etc).</li>
-          <ul>
-            <li></li>
-          </ul>
-        <br><br>
-        <li>How do the IT-specific skills in your required skill set rank in terms of demand from employers.</li>
-          <ol>
-            <li></li>
-            <li></li>
-            <li></li>
-            <li></li>
-          </ol>
-        <br><br>
-        <li>How do the general skills in your required skill set rank in terms of demand from employers?</li>
-           <ol>
-            <li></li>
-            <li></li>
-            <li></li>
-            <li></li>
-            <li></li>
-          </ol>
-        <br><br>
-        <li>What are the three highest ranked IT-specific skills which are not in your required skill set?</li>
-          <ol>
-            <li></li>
-            <li></li>
-            <li></li>
-          </ol>
-        <br><br>
-        <li>What are the three highest ranked general skills which are not in your required skill set?</li>
-          <ol>
-            <li></li>
-            <li></li>          
-            <li></li> 
-          </ol>
-        <br><br>
-        <li>What are the three highest ranked general skills which are not in your required skill set?</li>
-          <ol>
-            <li></li>
-            <li></li>          
-            <li></li> 
-          </ol>
-      </ol>
-      
-     <br><br><br>
-    <h3>Tony Hou</h3>
-    <ol>
-        <li>What are the Job Titles for your group’s ideal jobs? How do each of these rank in terms of demand from employers?</li>
-          <ul>
-            <li></li>
-           </ul>
-        <br><br>
-        <li>From your group’s ideal jobs, you can identify a set of skills required for these jobs (we will refer to this as your group’s required skill set ). These can be divided into general skills (communication, problem solving, writing etc) and IT-specific skills (Javascript, SQL, etc).</li>
-          <ul>
-            <li></li>
-          </ul>
-        <br><br>
-        <li>How do the IT-specific skills in your required skill set rank in terms of demand from employers.</li>
-          <ol>
-            <li></li>
-            <li></li>
-            <li></li>
-            <li></li>
-          </ol>
-        <br><br>
-        <li>How do the general skills in your required skill set rank in terms of demand from employers?</li>
-           <ol>
-            <li></li>
-            <li></li>
-            <li></li>
-            <li></li>
-            <li></li>
-          </ol>
-        <br><br>
-        <li>What are the three highest ranked IT-specific skills which are not in your required skill set?</li>
-          <ol>
-            <li></li>
-            <li></li>
-            <li></li>
-          </ol>
-        <br><br>
-        <li>What are the three highest ranked general skills which are not in your required skill set?</li>
-          <ol>
-            <li></li>
-            <li></li>          
-            <li></li> 
-          </ol>
-        <br><br>
-        <li>What are the three highest ranked general skills which are not in your required skill set?</li>
-          <ol>
-            <li></li>
-            <li></li>          
-            <li></li> 
-          </ol>
-      </ol>
-      
-     <br><br><br>
-
-
-
-<br><br><br>
-<h1>IT Work</h1>
-
-
-<br><br><br>
-<h1>IT Technologies</h1>
-
-
-
-<br><br><br>
-<h1>Project Ideas</h1>
-
-<br><br><br>
-<h1>Feedback</h1>
-
-
-
-<br><br><br>
-<h1>Group Reflection</h1>
-</Body>
-</HTML>
+          <li>What are the Job Titles for your group’s ideal jobs? How do each of these rank in terms of demand from employers?</li>
+            <ul>
+              <li>Cyber Security Analyst</li>
+             </ul>
+          <br><br>
+          <li>From your group’s ideal jobs, you can identify a set of skills required for these jobs (we will refer to this as your group’s required skill set ). These can be divided into general skills (communication, problem solving, writing etc) and IT-specific skills (Javascript, SQL, etc).</li>
+            <ul>
+              <li>Cyber Security Analyst- 3 or more years of work experience in this field or other cyber security roles. General skills include; analysing,  problem solving, communicating, working as a  team, incident response, project management writing and planning. IT-specific skills include; use of SIEM tools, encryptions, proxies, use of cloud environments.</li>
+            </ul>
+          <br><br>
+          <li>How do the IT-specific skills in your required skill set rank in terms of demand from employers.</li>
+            <ol>
+              <li>Programming and coding is not required for this field.</li>
+              <li>SIEM tools were not listed.</li>
+            </ol>
+          <br><br>
+          <li>How do the general skills in your required skill set rank in terms of demand from employers?</li>
+             <ol>
+              <li></li>
+              <li></li>
+              <li></li>
+              <li></li>
+              <li></li>
+            </ol>
+          <br><br>
+          <li>What are the three highest ranked IT-specific skills which are not in your required skill set?</li>
+            <ol>
+              <li>Rank #1 - SQL</li>
+              <li>Rank #2 - Java</li>
+              <li>Rank #3 - Javascript</li>
+            </ol>
+          <br><br>
+          <li>What are the three highest ranked general skills which are not in your required skill set?</li>
+            <ol>
+              <li>Rank #1 - Business analyst</li>
+              <li>Rank #2 - Business process</li>          
+              <li>Rank #8 - Web developmen</li> 
+            </ol>
+          <br><br>
+          <li>Having looked at your updated Burning Glass data, has your opinion of your ideal job changed? Why or why not?</li>
+            <ol>
+              <li>Currently no because I still see my ideal job as a cyber security analyst due to my interest in this field.</li>
+            </ol>
+        </ol>
+        
+       <br><br><br>
+      <h3>Tony Hou</h3>
+      <ol>
+          <li>What are the Job Titles for your group’s ideal jobs? How do each of these rank in terms of demand from employers?</li>
+            <ul>
+              <li>Software architecture</li>
+             </ul>
+          <br><br>
+          <li>From your group’s ideal jobs, you can identify a set of skills required for these jobs (we will refer to this as your group’s required skill set ). These can be divided into general skills (communication, problem solving, writing etc) and IT-specific skills (Javascript, SQL, etc).</li>
+            <ul>
+              <li>Software architect - 3 to 5 IT industry experience and experience in related fields.General skills needed for this job are skills in architecture (e.g. design), teamwork, problem solving, planning, project management , communication skills. Other skills required are knowledge of development and operation methods related to software as well as a deep knowledge of practices and procedures related to the distributed architecture. Knowing coding and software languages is a must.</li>
+            </ul>
+          <br><br>
+          <li>How do the IT-specific skills in your required skill set rank in terms of demand from employers.</li>
+            <ol>
+              <li>Rank #2 - Javascript</li>
+              <li>Rank #3 - Java</li>
+              <li>Rank #5 - C/C++</li>
+              <li>Rank #6 - Python</li>
+              <li>Rank #8 - Socket programming</li>
+            </ol>
+          <br><br>
+          <li>How do the general skills in your required skill set rank in terms of demand from employers?</li>
+             <ol>
+              <li>Rank #3 - Object oriented design</li>
+              <li>Rank #4 - Communication Skill</li>
+              <li>Rank #5 - Teamwork/Collaboration</li>
+              <li>Rank #6 - Testing and debugging software (Troubleshooting)</li>
+            </ol>
+          <br><br>
+          <li>What are the three highest ranked IT-specific skills which are not in your required skill set?</li>
+            <ol>
+              <li></li>
+              <li></li>
+              <li></li>
+            </ol>
+          <br><br>
+          <li>What are the three highest ranked general skills which are not in your required skill set?</li>
+            <ol>
+              <li>Rank #3 - Presenting skills</li>
+              <li>Rank #4 - Teamwork/collaboration</li>          
+              <li>Rank #6 - Planning ranks</li> 
+            </ol>
+          <br><br>
+          <li>Having looked at your updated Burning Glass data, has your opinion of your ideal job changed? Why or why not?</li>
+            <ol>
+              <li>A bit, as I had other jobs I was interested in such as web development.</li>
+            </ol>
+        </ol>
+        
+       <br><br><br>
+  
+  
+  
+  <br><br><br>
+  <h1>IT Work</h1>
+  
+  
+  <br><br><br>
+  <h1>IT Technologies</h1>
+  
+  
+  
+  <br><br><br>
+  <h1>Project Ideas</h1>
+  
+  <br><br><br>
+  <h1>Feedback</h1>
+  
+  
+  
+  <br><br><br>
+  <h1>Group Reflection</h1>
+  </Body>
+  </HTML>
