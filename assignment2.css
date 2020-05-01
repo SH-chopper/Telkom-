@@ -44,10 +44,10 @@ table, th, td {
     text-align: center;
     font-family: Verdana;
     border-collapse: collapse;
-    padding: 15px;
+    padding: 10px;
   }
 
 th {
     height: 50px;
-    font-size: 24px;
+    font-size: 30px;
 }
